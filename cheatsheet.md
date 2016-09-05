@@ -146,7 +146,7 @@ The commands we're going to talk about all output their results as text.  When y
 	
 	/files$ head names.txt
 	Dan Sinker
-	Erika Owens
+	David Blood
 	Noah Veltman
 	Annabel Church
 	Friedrich Lindenberg

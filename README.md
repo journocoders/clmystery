@@ -49,3 +49,5 @@ By Noah Veltman
 Projects: [noahveltman.com](http://noahveltman.com)  
 GitHub: [veltman](https://github.com/veltman)  
 Twitter: [@veltman](https://twitter.com/veltman)  
+
+Lightly adapted for Journocoders by Tom Wills
